@@ -12,4 +12,11 @@ Practice Problems
 
 ## 10 January 2022
 - Q4 - https://leetcode.com/problems/valid-parentheses/
-- Q5 - 
+
+## 12 January 2022
+- Q5 - https://leetcode.com/problems/jewels-and-stones
+
+## 13 January 2022
+- Q6 - https://leetcode.com/problems/valid-anagram
+- Q7 - https://leetcode.com/problems/group-anagrams
+
