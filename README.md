@@ -20,3 +20,5 @@ Practice Problems
 - Q6 - https://leetcode.com/problems/valid-anagram
 - Q7 - https://leetcode.com/problems/group-anagrams
 
+## 14 January 2022
+- Q8 - https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/
